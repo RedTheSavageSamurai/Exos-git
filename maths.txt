@@ -5,3 +5,9 @@ Bordel.
 2+2=4
 4+4=8
 8+8=16
+Multiplications :
+1x1 = 1
+1x2 = 2
+1x3 = 3
+1x4 = 4
+1x5 = 5
