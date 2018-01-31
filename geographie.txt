@@ -1,2 +1,4 @@
 La géographie c'est bien
 Un pays comporte des villes
+Japon -> Tokyo
+France -> Roanne
