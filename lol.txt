@@ -1,0 +1,3 @@
+Test
+Ceci est un message important
+Git c'et cool 
